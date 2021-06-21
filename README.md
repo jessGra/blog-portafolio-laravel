@@ -3,6 +3,6 @@
     Creado por <strong>Jesus Granada</strong>
 </p>
 
-Proyecto publicado en Heroku: https://blog-portafolio-laravel.herokuapp.com/
+Proyecto publicado en <a href="https://blog-portafolio-laravel.herokuapp.com/" target="_blank">Heroku</a>
 
 Datos inicio de sesion:  'email' => 'test@email.com', 'password' => '12345678'
